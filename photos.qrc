@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="skype">
+    <file>imgs/call-prevented.png</file>
+    <file>imgs/microsoft.png</file>
+    <file>imgs/skype-icon.png</file>
+    <file>imgs/loading-1.gif</file>
+    <file>imgs/skype-logo.png</file>
+  </qresource>
+</RCC>
