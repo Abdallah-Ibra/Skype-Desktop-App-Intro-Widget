@@ -4,4 +4,4 @@
 
 ### > ***Be sure that this work is DEMO and just for educational purspose!***
 
-![alt-text](https://github.com/Abdallah-Ibra/Skype-Desktop-App-Intro-Widget/blob/main/intro.ui)
+![alt-text](https://github.com/Abdallah-Ibra/Skype-Desktop-App-Intro-Widget/blob/main/tuto.gif)
