@@ -4,4 +4,4 @@
 
 ### > ***Be sure that this work is DEMO and just for educational purspose!***
 
-![alt-text](https://im6.ezgif.com/tmp/ezgif-6-aa638967c481.gif)
+![alt-text](https://github.com/Abdallah-Ibra/Skype-Desktop-App-Intro-Widget/blob/main/intro.ui)
